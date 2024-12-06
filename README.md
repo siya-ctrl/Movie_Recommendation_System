@@ -9,3 +9,6 @@ Developed an interactive Movie Recommender System using Python and Streamlit, in
 * Recommendation engine based on content similarity.
 * Efficient data handling with pre-saved pickle files.
 * Technologies Used: Python, Streamlit, TMDb API, Pickle, Pandas.
+
+# Dataset
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
